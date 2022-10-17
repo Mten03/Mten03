@@ -1,6 +1,6 @@
 ### Hello, I'm Mitam! 👋
 
-I am currently self learning web development. I am working on enhancing my knowledge in JavaScript, HTML, and CSS. I will learn Typscript later down the road as well. I am hoping to work on more projects and build a strong portfolio, so that I can eventually land my first entry-level job. A fun fact about me would be that I love to spend my free time at the grocery store and in the kitchen trying out new recipes!
+I am currently self teaching web development. I am working on enhancing my knowledge in JavaScript, HTML, and CSS. I will learn Typscript later down the road as well. I am hoping to work on more projects and build a strong portfolio, so that I can eventually land my first entry-level job. A fun fact about me would be that I love to spend my free time at the grocery store and in the kitchen trying out new recipes!
 <!--
 **Mten03/Mten03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
